@@ -1,0 +1,2 @@
+
+SHOOTER_SPEED = 1.5
